@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "MAB_2018", "MAB_2018\MAB_2018.deployproj", "{60FF43C9-7251-4740-B7FA-0BFCF9B6E7E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60FF43C9-7251-4740-B7FA-0BFCF9B6E7E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60FF43C9-7251-4740-B7FA-0BFCF9B6E7E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60FF43C9-7251-4740-B7FA-0BFCF9B6E7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60FF43C9-7251-4740-B7FA-0BFCF9B6E7E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAF907B8-F5F0-40C9-B0D8-BD9E484CE1E0}
+	EndGlobalSection
+EndGlobal
